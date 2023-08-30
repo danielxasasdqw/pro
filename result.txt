@@ -1,0 +1,2646 @@
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:06.586017
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:07.061478
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:07.437057
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:07.822361
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:08.170786
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:08.724940
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:09.083782
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:09.463813
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:09.830863
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:10.199038
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:10.565818
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:10.916031
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:11.285882
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:11.636427
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:11.988915
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:12.346188
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:12.709437
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:13.052141
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:13.418023
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:13.781115
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:14.146973
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:14.497908
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:15.451245
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:16.560309
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:17.759347
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:18.779963
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:19.922473
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:21.102855
+
+
+person: 15
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:22.286914
+
+
+person: 15
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:23.462959
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:24.644980
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:25.761722
+
+
+person: 15
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:26.729186
+
+
+person: 15
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:27.853829
+
+
+person: 15
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:29.020431
+
+
+person: 15
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:30.044944
+
+
+person: 13
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:30.972765
+
+
+person: 14
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:32.132591
+
+
+person: 15
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:32.960715
+
+
+person: 15
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:33.813840
+
+
+person: 15
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:34.390343
+
+
+person: 14
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:34.760712
+
+
+person: 14
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:35.138871
+
+
+person: 15
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:35.507710
+
+
+person: 15
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:35.872665
+
+
+person: 15
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:36.240690
+
+
+person: 14
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:36.620930
+
+
+person: 14
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:36.972050
+
+
+person: 14
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:38.139079
+
+
+person: 13
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:39.249034
+
+
+person: 13
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:39.700161
+
+
+person: 13
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:40.052471
+
+
+person: 14
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:40.418213
+
+
+person: 14
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:40.762143
+
+
+person: 14
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:41.114737
+
+
+person: 14
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:41.471600
+
+
+person: 14
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:41.813913
+
+
+person: 14
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:42.162305
+
+
+person: 14
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:42.511342
+
+
+person: 14
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:42.860115
+
+
+person: 13
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:43.209959
+
+
+person: 13
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:43.568914
+
+
+person: 13
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:43.914718
+
+
+person: 13
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:44.269126
+
+
+person: 13
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:44.615906
+
+
+person: 13
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:44.957367
+
+
+person: 13
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:45.299641
+
+
+person: 12
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:45.649146
+
+
+person: 13
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:45.993615
+
+
+person: 13
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:46.342272
+
+
+person: 12
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:46.683894
+
+
+person: 11
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:47.031796
+
+
+person: 11
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:47.377916
+
+
+person: 11
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:47.731062
+
+
+person: 11
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:48.069949
+
+
+person: 11
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:48.415601
+
+
+person: 12
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:48.758066
+
+
+person: 12
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:49.116018
+
+
+person: 12
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:49.469025
+
+
+person: 12
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:49.814398
+
+
+person: 12
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:50.166114
+
+
+person: 12
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:50.517185
+
+
+person: 12
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:50.861643
+
+
+person: 13
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:51.206975
+
+
+person: 13
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:51.551976
+
+
+person: 13
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:51.894384
+
+
+person: 13
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:52.269790
+
+
+person: 13
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:52.661732
+
+
+person: 13
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:53.008680
+
+
+person: 12
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:53.362049
+
+
+person: 12
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:53.708109
+
+
+person: 12
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:54.115875
+
+
+person: 12
+cell phone: 0
+book: 0
+time: 2023-08-16 21:11:54.478565
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 19:50:21.355667
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 19:50:21.786700
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 19:50:22.159309
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 19:50:22.488125
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 19:50:22.807501
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 19:50:23.143001
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 19:50:23.479453
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 19:50:23.811437
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 19:50:24.173668
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 19:50:24.522086
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 19:50:24.859404
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 19:50:25.192328
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 19:50:25.553358
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 19:50:25.907806
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 19:50:26.250066
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 19:55:59.884879
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 19:56:00.308214
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 19:56:00.689482
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 19:56:01.026617
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 19:56:01.362879
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 19:56:01.693296
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 19:56:02.018910
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 19:56:02.347273
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 19:56:02.713648
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 19:56:03.074726
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 19:56:35.110768
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 19:56:35.489383
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 19:56:35.830574
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 19:56:36.171249
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 19:56:36.498121
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 19:56:36.842416
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 19:56:37.179846
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 19:56:37.675310
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 19:56:38.020806
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 19:56:38.364621
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 19:56:38.703821
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 19:56:39.048831
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 19:56:40.204041
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 19:56:41.426312
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 19:56:42.629849
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 19:56:43.712327
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 19:56:44.968384
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 19:56:46.196460
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:02:20.761636
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:13:30.098094
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:15:16.263711
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:18:42.561144
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:19:17.015182
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:19:27.493691
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:20:14.634076
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:20:15.019286
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:20:15.364903
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:20:15.713682
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:20:16.050922
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:20:16.399085
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 20:20:16.744740
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 20:20:17.083246
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 20:20:17.466620
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 20:20:17.851188
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:20:18.217038
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:22:28.056559
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:22:28.456206
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:22:28.800262
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:22:29.140959
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:22:29.474352
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:22:29.820600
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 20:22:30.161057
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 20:22:30.501125
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 20:22:30.842993
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 20:22:31.185571
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:25:34.376145
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:25:34.773886
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:25:35.130069
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:25:35.476628
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:25:35.814097
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:25:36.154175
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 20:25:36.491308
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 20:25:36.848918
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 20:25:37.201888
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 20:25:37.555551
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:25:37.917075
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:25:38.285948
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:25:38.632382
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:25:38.979396
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:25:39.348038
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:25:39.702330
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:25:40.041247
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:25:40.386309
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:25:40.722501
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:25:41.058780
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:25:41.405643
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:25:41.746079
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:25:42.085231
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:25:42.463800
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:25:43.388013
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:25:44.202130
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:25:45.447619
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:34:52.383190
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:34:52.774069
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:34:53.128437
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:34:53.468315
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:34:53.803033
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:34:54.157359
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 20:34:54.510950
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 20:34:54.975051
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 20:34:55.406429
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 20:34:55.757130
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:34:56.107004
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:34:56.458980
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:34:56.871836
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:34:57.241081
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:35:38.712272
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:35:39.101417
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:35:39.452887
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:35:39.787993
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:35:40.128793
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:35:40.470633
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 20:35:40.804647
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 20:35:41.137902
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 20:35:41.481342
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 20:35:41.872175
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:35:42.227329
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:35:55.318166
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:35:55.703521
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:35:56.048561
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:35:56.383842
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:35:56.712347
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:35:57.054517
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 20:35:57.400617
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 20:35:57.889469
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 20:35:58.254813
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 20:35:58.621350
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:35:59.217792
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:36:00.266698
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:36:01.396112
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:36:02.496244
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:36:03.568382
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:36:04.517953
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:36:05.444485
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:36:06.462359
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:36:07.593031
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:36:08.791049
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:36:09.924226
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:36:32.798134
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:36:33.175452
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:36:33.528547
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:36:33.863742
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:36:34.201719
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:36:34.545235
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 20:36:34.880733
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 20:36:35.246361
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 20:36:35.610795
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 20:36:35.966943
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:36:36.320592
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:36:36.669894
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:36:37.031764
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:36:37.390800
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:36:37.742556
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:36:38.097676
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:36:38.447322
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:36:38.799602
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:36:39.147687
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:36:39.498015
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:36:39.844784
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:36:40.189666
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:36:40.534288
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:36:41.050798
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:36:41.927627
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:36:43.031850
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:38:34.674221
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:39:07.094509
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:41:19.276181
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:41:44.075479
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:42:12.741537
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:45:53.522336
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:46:47.982978
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:47:15.597721
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:49:14.218856
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:49:14.622300
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:49:14.968593
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:49:15.306859
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:49:15.645807
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:49:15.990415
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 20:49:16.335858
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 20:49:16.667812
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 20:49:17.044357
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:51:07.579842
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:52:00.748975
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:52:01.138443
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:52:01.513125
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:52:01.878888
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:52:02.232804
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:52:02.594030
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 20:52:02.958347
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 20:52:03.318755
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 20:52:03.675618
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 20:52:04.049920
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:53:17.477298
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:53:17.870551
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:53:18.233939
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:53:18.596683
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:53:18.956987
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:53:19.301974
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 20:53:19.662429
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 20:53:20.012296
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 20:53:20.371974
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 20:53:20.738405
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:53:21.090478
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:55:08.773370
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:55:09.164508
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:55:09.526664
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:55:09.890311
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:55:10.240864
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:55:10.603072
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 20:55:10.977526
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 20:55:11.336928
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 20:55:11.704498
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 20:55:12.055885
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:56:45.413127
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:56:45.804906
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:56:46.176918
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:56:46.543266
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:56:46.897269
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:56:47.267139
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 20:56:47.631847
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 20:56:47.985628
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 20:56:48.342794
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 20:56:48.706414
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 20:56:49.062730
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 20:58:06.818101
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 21:00:01.591087
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 21:00:01.986883
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 21:00:02.360593
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 21:00:02.714450
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 21:00:03.069150
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 21:00:03.434069
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 21:00:03.793518
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 21:00:04.149887
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 21:00:04.515634
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 21:00:04.874140
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 21:00:45.139265
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 21:00:45.532102
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 21:00:45.903023
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 21:00:46.250669
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 21:00:46.689512
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 21:00:47.046849
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 21:00:47.408930
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 21:00:47.776470
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 21:00:48.128597
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 21:00:48.474746
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 21:00:48.841387
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 21:01:19.113441
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 21:01:19.503142
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 21:01:19.882489
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 21:01:20.240321
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 21:01:20.696639
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 21:01:21.054747
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 21:01:21.408831
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 21:01:21.775812
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 21:01:22.124604
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 21:01:22.485183
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 21:01:22.836628
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 21:01:23.197693
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 21:08:19.896871
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 21:08:20.349437
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 21:08:20.722622
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 21:08:21.080767
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-23 21:08:21.487706
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-23 21:08:21.878456
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-23 21:08:22.351896
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-30 18:10:22.822324
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-30 18:10:23.314938
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-30 18:10:23.695261
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-30 18:10:24.067474
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-30 18:10:24.442104
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-30 18:10:24.816311
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-30 18:10:25.202642
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-30 18:10:25.641021
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-30 18:10:26.015885
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-30 18:10:26.391972
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-30 18:10:26.753303
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-30 18:10:27.134156
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-30 18:10:27.511986
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-30 18:10:27.887980
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-30 18:10:29.121238
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-30 18:10:30.376806
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-30 18:17:22.906697
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-30 18:17:23.318979
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-30 18:17:23.697495
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-30 18:17:24.102664
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-30 18:17:24.525438
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-30 18:17:24.894422
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-30 18:17:25.254897
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-30 18:17:25.630431
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-30 18:17:26.016740
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-30 18:17:26.542044
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-30 18:17:27.788080
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-30 18:17:29.040985
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-30 18:17:30.262076
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-30 18:17:31.502571
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-30 18:17:32.643131
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-30 18:17:33.689201
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-30 18:17:34.923954
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-30 18:17:36.224315
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-30 18:17:37.409185
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-30 18:17:38.615973
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-30 18:17:39.766647
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-30 18:17:41.035432
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-30 18:17:42.234214
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-30 18:17:43.423899
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-30 18:18:41.643363
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-30 18:18:42.047006
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-30 18:18:42.422626
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-30 18:18:42.770203
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-30 18:18:43.139752
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-30 18:18:43.521444
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-30 18:18:43.893965
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-30 18:18:44.262047
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-30 18:18:44.651330
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-30 18:18:45.040465
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-30 18:18:45.442516
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-30 18:18:45.837642
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-30 18:18:46.210214
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-30 18:18:46.589151
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-30 18:18:46.970589
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-30 18:18:47.347779
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-30 18:18:47.753991
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-30 18:18:48.122339
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-30 18:18:48.502478
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-30 18:18:48.878159
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-30 18:18:49.268536
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-30 18:18:49.645332
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-30 18:18:50.823385
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-30 18:19:23.229838
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-30 18:19:23.623053
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-30 18:19:23.998492
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-30 18:19:24.363077
+
+
+person: 17
+cell phone: 0
+book: 0
+time: 2023-08-30 18:19:24.737567
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-30 18:19:25.118179
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-30 18:19:25.523371
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-30 18:19:25.909167
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-30 18:19:26.279488
+
+
+person: 18
+cell phone: 0
+book: 0
+time: 2023-08-30 18:19:26.662089
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-30 18:19:27.028274
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-30 18:19:28.192434
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-30 18:19:29.319712
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-30 18:19:30.422389
+
+
+person: 16
+cell phone: 0
+book: 0
+time: 2023-08-30 18:19:31.527424
